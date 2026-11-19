@@ -1,0 +1,6 @@
+# Reference configuration only. The actual model/version is configured in .env.
+provider: Roboflow Hosted Inference
+model_family: RF-DETR
+model_variant: Small
+project_slug: helmet-kwmhk-knbzp
+model_version: SET_THIS_FROM_ROBOFLOW_DEPLOY_PAGE
